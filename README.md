@@ -1,5 +1,5 @@
 # DPDM65
 
-TT Testing
+TT
 
 ![grading image](grading.png)
